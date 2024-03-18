@@ -1,2 +1,2 @@
-# LearnGame.Topic3.DigitalDepartment
-for BMSTU Digital Department
+# Untiy Project For Digital Department
+ 
